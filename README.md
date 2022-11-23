@@ -1,7 +1,7 @@
-# Jenkins_task
+# Terraform_Ansible_Jenkins_task
 
-Created AWS services through Terraform code
+Setup AWS infrastructure through Terraform code
 
 Created Ansible Inventory and Playbook file to Install Docker on Jenkins and App hosts
 
-Created Jenkins Build Pipeline
+Created Jenkins Build Pipeline successfully
