@@ -15,6 +15,7 @@ pipeline {
 
     // Building Docker images
 
+        
 
     // Uploading Docker images into AWS ECR
     stage('Pushing to ECR') {
